@@ -1,0 +1,5 @@
+Hi!
+Thank you for your subscription to PyBlog
+
+Kind regards,
+	PyBlog Team
